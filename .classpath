@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="lib" path="/common/poi-3.0.1-FINAL-20070705.jar"/>
+	<classpathentry kind="lib" path="/common/ftpbean.jar" sourcepath="/common/ftpbean.jar"/>
+	<classpathentry kind="lib" path="/common/com.ibm.mq-5.3.jar"/>
+	<classpathentry kind="lib" path="/common/commons-lang-2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
